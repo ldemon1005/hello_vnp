@@ -2,7 +2,6 @@
     "name": "vnp/tuan-hello",
     "description": "the first composer package",
     "type": "php",
-    "license": "aaa",
     "authors": [
         {
             "name": "hello_vnp",
